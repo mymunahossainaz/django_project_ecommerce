@@ -1,0 +1,11 @@
+.carousel-inner {
+    height: 700px; /* Fixed height for carousel */
+    background-color:gray; /* Black background for any extra space */
+}
+
+.carousel-inner img {
+    height: 700px; /* Adjust to desired height */
+    object-fit: contain; /* Ensures the full image is visible without cropping */
+    background-color: #f8f9fa; /* Adds a light background for consistency */
+}
+
